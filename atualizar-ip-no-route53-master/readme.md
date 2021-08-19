@@ -2,6 +2,8 @@
 #  Wittemberg Mesquita - https://www.linkedin.com/in/wittemberg/
 # Repositorio Original:
 # https://gitlab.com/comunidade-cloud/aws/atualizar-ip-no-route53  
+# Comunidade Cloud - AWS:
+# https://gitlab.com/comunidade-cloud/aws
 
 # ATUALIZAR IP EM UM REGISTRO A DO ROUTE 53 - Container Docker 
 
